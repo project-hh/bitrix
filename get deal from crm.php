@@ -73,9 +73,4 @@ while ($deal = $deals->Fetch()) {
             );
             //print_r($events);
         }
-
-    }
-
-
-////////////////
-
+    
