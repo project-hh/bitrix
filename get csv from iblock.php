@@ -1,7 +1,7 @@
 <?php
 
 header('Content-type: text/csv');
-header('Content-Disposition: attachment; filename=mbatoday.csv');
+header('Content-Disposition: attachment; filename=today.csv');
 header('Pragma: no-cache');
 
 define('NO_KEEP_STATISTIC', true); // отключаем статистику
